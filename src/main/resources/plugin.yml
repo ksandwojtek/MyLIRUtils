@@ -1,0 +1,4 @@
+name: MyLIRUtils
+version: '${project.version}'
+main: ksndq.mylirutils.MyLIRUtils
+api-version: '1.20'
